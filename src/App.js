@@ -3,7 +3,7 @@ import { Home } from "./components/Home";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" id="App">
       <header className="App-header">
         <h1>Hello World</h1>
         <Home />
